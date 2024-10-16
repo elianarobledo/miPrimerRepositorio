@@ -1,3 +1,3 @@
 # miPrimerRepositorio
 Practico 1
-Proyecto deejemplo
+Proyecto de ejemplo
